@@ -3,7 +3,7 @@ it is a test to create a simple library for py !!!
 
 
 # How to USE ?!
-- Download flib.py 
+- Download `flib.py`
 - write in your py source :
 ```
 from flib import *
