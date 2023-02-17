@@ -3,8 +3,8 @@ it is a test to create a simple library for py !!!
 
 
 # How to USE ?!
-- uploade this on your PC 
-- write in you py source :
+- Download flib.py 
+- write in your py source :
 ```
 from flib import *
 ```
